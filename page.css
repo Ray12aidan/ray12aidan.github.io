@@ -1,0 +1,17 @@
+body {
+    margin-top:25px ;
+    margin-bottom:25px ;
+    margin-right:25px ;
+    margin-left:25px ;
+    border: 5px solid red;
+    border-radius: 25px;
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+.color {
+    color:white;
+}
